@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Personal4B:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Personal4B</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Personal4B-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Personal4B:war exploded" />
+    </root>
+  </artifact>
+</component>
